@@ -129,7 +129,5 @@ Dependency Injection
 
 ---
 
-![logo](assets/logo.svg)
-
 
 ###
