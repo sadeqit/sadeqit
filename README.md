@@ -77,16 +77,16 @@ Architecture
 <img src="https://progress-bar.xyz/75/?title=MVVM-Design&width=350" width="100%" >
 
 Concurrency  
-<img src="https://progress-bar.xyz/70/?title=Coroutines&width=350" width="100%" >
+<img src="https://progress-bar.xyz/75/?title=Coroutines&width=350" width="100%" >
 
 Networking  
-<img src="https://progress-bar.xyz/65/?title=Retrofit&width=350" width="100%" >
+<img src="https://progress-bar.xyz/70/?title=Retrofit&width=350" width="100%" >
 
 DB & Storage  
-<img src="https://progress-bar.xyz/60/?title=DataBase&width=350" width="100%" >
+<img src="https://progress-bar.xyz/65/?title=DataBase&width=350" width="100%" >
 
 Dependency Injection  
-<img src="https://progress-bar.xyz/55/?title=Dagger-Hilt&width=350" width="100%" >
+<img src="https://progress-bar.xyz/60/?title=Dagger-Hilt&width=350" width="100%" >
 
 
 </tr>
