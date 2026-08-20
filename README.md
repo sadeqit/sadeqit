@@ -105,8 +105,7 @@ Dependency Injection
 - [📖 LibraryManagementSystem](https://github.com/sadegh-it/LibraryManagementSystem) — A console project written in Kotlin for library management.
 
 ### 🔒 Commercial Projects 
-- [📚 Pocket Library](#) — my personal library app
-- [📘 Blue Dream Interpretation](#) —Application for searching and viewing dream interpretations
+- [📘 Sadegh Dream Interpretation](https://github.com/sadeqit/Sadegh-Dream) —Application for searching and viewing dream interpretations
  
 
 ---
