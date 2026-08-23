@@ -74,19 +74,21 @@ Android Studio
 <img src="https://progress-bar.xyz/85/?title=Jetpack&width=350" width="100%" >
 
 Architecture  
-<img src="https://progress-bar.xyz/75/?title=MVVM-Design&width=350" width="100%" >
+<img src="https://progress-bar.xyz/80/?title=MVVM-Design&width=350" width="100%" >
 
 Concurrency  
-<img src="https://progress-bar.xyz/75/?title=Coroutines&width=350" width="100%" >
+<img src="https://progress-bar.xyz/80/?title=Coroutines&width=350" width="100%" >
 
 Networking  
-<img src="https://progress-bar.xyz/70/?title=Retrofit&width=350" width="100%" >
-
-DB & Storage  
-<img src="https://progress-bar.xyz/65/?title=DataBase&width=350" width="100%" >
+<img src="https://progress-bar.xyz/75/?title=Retrofit&width=350" width="100%" >
 
 Dependency Injection  
-<img src="https://progress-bar.xyz/60/?title=Dagger-Hilt&width=350" width="100%" >
+<img src="https://progress-bar.xyz/70/?title=Dagger-Hilt&width=350" width="100%" >
+
+DB & Storage  
+<img src="https://progress-bar.xyz/70/?title=DataBase&width=350" width="100%" >
+
+
 
 
 </tr>
@@ -112,21 +114,18 @@ Dependency Injection
 
 ## 📞 Contact Me
 
- [![telegram](https://img.shields.io/badge/Telegram-%20?style=for-the-badge&logo=telegram&logoColor=white&color=2CA5E0)](https://t.me/SADEGH_IT)
+ [![telegram](https://img.shields.io/badge/Telegram-%20?style=for-the-badge&logo=telegram&logoColor=white&color=2CA5E0)](https://t.me/DANAYAN_KALAM)
  [![instagram](https://img.shields.io/badge/Instagram-%20?style=for-the-badge&logo=Instagram&logoColor=white&color=E4405F)](https://www.instagram.com/sadegh.it)
- [![gmail](https://img.shields.io/badge/Gmail-%20?style=for-the-badge&logo=Gmail&logoColor=white&color=%23e94134)](mailto:sadegh0it@gmail.com?subject=Contact%20from%20GitHub)
+ [![gmail](https://img.shields.io/badge/Gmail-%20?style=for-the-badge&logo=Gmail&logoColor=white&color=%23e94134)](mailto:danayankalam@gmail.com?subject=Contact%20from%20GitHub)
  [![linkdin](https://img.shields.io/badge/linkedin-%20?style=for-the-badge&logo=linkedin&logoColor=white&color=0077B5)](https://www.linkedin.com/in/sadegh-it-2578a0218)
  [![discord](https://img.shields.io/badge/Discord-%20?style=for-the-badge&logo=Discord&logoColor=white&color=7289DA)](discord.com)
 
 ###
 
 ---
-
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=sadegh-it&style=for-the-badge" />
 </div>
 
----
 
 
-###
