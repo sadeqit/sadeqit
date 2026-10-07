@@ -14,25 +14,27 @@ I mainly work with Kotlin and Jetpack Compose.  I love modern MVVM architectures
 
 ---
 
-## 🛠️ (Technical Skills)
+## 🛠️ Technical Skills
 
-🔹 **Language :** Kotlin (Advanced)
+🔹 **Language:** Kotlin (Advanced)
 
-🔹 **Android :** Jetpack Compose // Android Studio
+🔹 **Android Development:** Android SDK • Jetpack Compose • Material 3 • Navigation Compose • Android Studio
 
-🔹 **Architecture :** MVVM // Design Patterns // SOLID
+🔹 **Architecture & Best Practices:** MVVM • Clean Architecture • SOLID • Design Patterns • Clean Code
 
-🔹 **Concurrency :** Coroutines • Flow
+🔹 **Concurrency & State Management:** Coroutines • Flow • StateFlow • SharedFlow
 
-🔹 **Networking :** REST APIs // Retrofit // JSON // Error Handling
+🔹 **Networking & Backend:** REST APIs • Retrofit • Ktor • Kotlin Serialization • JSON • Supabase • Error Handling
 
-🔹 **DB & Storage :** Room // DataStore // SharedPreferences
+🔹 **Database & Storage:** Room • DataStore • SharedPreferences
 
-🔹 **Dependency Injection :** Hilt (Dagger)
+🔹 **Dependency Injection:** Hilt • Dagger
 
-🔹 **Version Control :** Git // GitHub
+🔹 **UI/UX:** Material Design • RTL • Light/Dark Theme • Persian UI Design
 
-🔹 **Testing :** Basic unit testing & TDD
+🔹 **Testing & Debugging:** Unit Testing • TDD • Debugging • Performance Optimization
+
+🔹 **Version Control & Workflow:** Git • GitHub • Git Flow • Release Management
 
 #
 
@@ -74,19 +76,19 @@ Android Studio
 <img src="https://progress-bar.xyz/85/?title=Jetpack&width=350" width="100%" >
 
 Architecture  
-<img src="https://progress-bar.xyz/80/?title=MVVM-Design&width=350" width="100%" >
+<img src="https://progress-bar.xyz/85/?title=MVVM-Design&width=350" width="100%" >
 
 Concurrency  
-<img src="https://progress-bar.xyz/80/?title=Coroutines&width=350" width="100%" >
+<img src="https://progress-bar.xyz/85/?title=Coroutines&width=350" width="100%" >
 
 Networking  
-<img src="https://progress-bar.xyz/75/?title=Retrofit&width=350" width="100%" >
+<img src="https://progress-bar.xyz/80/?title=Retrofit&width=350" width="100%" >
 
 Dependency Injection  
-<img src="https://progress-bar.xyz/70/?title=Dagger-Hilt&width=350" width="100%" >
+<img src="https://progress-bar.xyz/75/?title=Dagger-Hilt&width=350" width="100%" >
 
 DB & Storage  
-<img src="https://progress-bar.xyz/70/?title=DataBase&width=350" width="100%" >
+<img src="https://progress-bar.xyz/75/?title=DataBase&width=350" width="100%" >
 
 
 
