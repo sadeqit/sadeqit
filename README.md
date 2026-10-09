@@ -100,17 +100,23 @@ DB & Storage
 
 ---
 
-## 🌟 Featured Projects
+## 🚀 Featured Projects
+
+### 🛒 Online Shop — Professional E-commerce Application
+
+* [**Online-Shop**](https://github.com/sadeqit/Online-Shop) — A professional Android e-commerce application designed to provide a modern and user-friendly shopping experience.
+
+### 📱 Published Android Application
+
+* [**Sadegh Dream Interpretation**](https://github.com/sadeqit/Sadegh-Dream) — An Android application for searching and exploring dream interpretations, published on Cafe Bazaar.
 
 ### 🧪 Open Source Projects
-- [📝 MyNote](https://github.com/sadegh-it/My-Note) — A note-taking app
-- [👨🏻‍💻 Login Register](https://github.com/sadegh-it/LoginRegister) — A simple app to work with Retrofit and Gson
-- [🤖 Gemini-Chat](https://github.com/sadegh-it/Gemini-Chat) — A practice app for using the Gemnai AI API
-- [📖 LibraryManagementSystem](https://github.com/sadegh-it/LibraryManagementSystem) — A console project written in Kotlin for library management.
 
-### 🔒 Commercial Projects 
-- [📘 Sadegh Dream Interpretation](https://github.com/sadeqit/Sadegh-Dream) —Application for searching and viewing dream interpretations
- 
+* [**MyNote**](https://github.com/sadeqit/My-Note) — A note-taking application.
+* [**Gemini-Chat**](https://github.com/sadeqit/Gemini-Chat) — An Android application demonstrating integration with Google's Gemini AI API.
+* [**Login Register**](https://github.com/sadeqit/LoginRegister) — An Android project demonstrating authentication UI and REST API integration using Retrofit.
+* [**LibraryManagementSystem**](https://github.com/sadeqit/LibraryManagementSystem) — A Kotlin console application for library management.
+
 
 ---
 
