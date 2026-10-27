@@ -102,21 +102,35 @@ DB & Storage
 
 ## 🚀 Featured Projects
 
-### 🛒 Online Shop — Professional E-commerce Application
+### 📱 Published Android Applications
 
-* [**Online-Shop**](https://github.com/sadeqit/Online-Shop) — A professional Android e-commerce application designed to provide a modern and user-friendly shopping experience.
+#### 🌦️ Weatherino — Smart Weather Application
 
-### 📱 Published Android Application
+- [**Download from Cafe Bazaar**](https://cafebazaar.ir/app/io.github.sadeqit.weatherino)
+- [**GitHub Repository**](https://github.com/sadeqit/weatherino)
+- A cross-platform weather application built with Kotlin Multiplatform and Compose Multiplatform, featuring real-time weather data, forecasts, air quality information, location-based weather, and local caching.
 
-* [**Sadegh Dream Interpretation**](https://github.com/sadeqit/Sadegh-Dream) — An Android application for searching and exploring dream interpretations, published on Cafe Bazaar.
+#### 🌙 Sadegh Dream Interpretation
+
+- [**Download from Cafe Bazaar**](https://cafebazaar.ir/app/io.github.sadeghit.dream)
+- [**GitHub Repository**](https://github.com/sadeqit/Sadegh-Dream)
+- An Android application for searching and exploring dream interpretations, published on Cafe Bazaar.
+
+### 🛒 Practice Projects
+
+#### Online Shop — E-commerce Application
+
+- [**GitHub Repository**](https://github.com/sadeqit/Online-Shop)
+- A practice e-commerce application developed to apply professional Android development principles, architecture patterns, and modern development practices in a realistic project structure.
+
+---
 
 ### 🧪 Open Source Projects
 
-* [**MyNote**](https://github.com/sadeqit/My-Note) — A note-taking application.
-* [**Gemini-Chat**](https://github.com/sadeqit/Gemini-Chat) — An Android application demonstrating integration with Google's Gemini AI API.
-* [**Login Register**](https://github.com/sadeqit/LoginRegister) — An Android project demonstrating authentication UI and REST API integration using Retrofit.
-* [**LibraryManagementSystem**](https://github.com/sadeqit/LibraryManagementSystem) — A Kotlin console application for library management.
-
+- [**MyNote**](https://github.com/sadeqit/My-Note) — A note-taking application.
+- [**Gemini-Chat**](https://github.com/sadeqit/Gemini-Chat) — An Android application demonstrating integration with Google's Gemini AI API.
+- [**Login Register**](https://github.com/sadeqit/LoginRegister) — An Android project demonstrating authentication UI and REST API integration using Retrofit.
+- [**LibraryManagementSystem**](https://github.com/sadeqit/LibraryManagementSystem) — A Kotlin console application for library management.
 
 ---
 
