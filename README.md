@@ -1,14 +1,21 @@
 <h1 align="center">Hi there 👋 I'm SADEGH IT</h1>
+<h3 align="center">Android & Kotlin Multiplatform Developer</h3>
 
-I'm an Android developer focused on building modern, maintainable, and user-friendly applications with Kotlin.
+<p align="center">
+  <a href="https://sadeqit.github.io">🌐 Portfolio</a> •
+  <a href="#-featured-projects">📱 Projects</a>
+</p>
 
-I mainly work with Kotlin, Jetpack Compose, and Kotlin Multiplatform. I follow modern development practices such as MVVM, Clean Architecture, SOLID, and Clean Code to build scalable and maintainable applications.
+---
+Android & Kotlin Multiplatform developer building modern, maintainable, and user-friendly applications with **Kotlin**.
 
-I have experience with UI/UX development, REST APIs, state management with Coroutines and Flow, local data storage, dependency injection, and multiplatform development.
+My core stack includes **Kotlin · Jetpack Compose · Kotlin Multiplatform**, with **MVVM, Clean Architecture, SOLID, and Clean Code** as the foundation of my development approach.
 
-I've also published Android and multiplatform applications on Cafe Bazaar, taking projects from development to release and distribution.
+Comfortable with **UI/UX, REST APIs, Coroutines & Flow, local storage, dependency injection, and multiplatform development**, with a focus on writing clean, maintainable, and reliable code.
 
-I'm passionate about learning new technologies, improving my development skills, and building applications that provide a great user experience.
+Published **Android apps** on **Cafe Bazaar**, taking projects from development to release and distribution.
+
+Continuously learning and improving to build high-quality applications with a strong focus on **performance, maintainability, and user experience**.
 
 ---
 
