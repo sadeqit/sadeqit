@@ -1,24 +1,24 @@
-<h1 align="center">Hi there 👋  I'm SADEGH IT</h1>
+<h1 align="center">Hi there 👋 I'm SADEGH IT</h1>
 
-###
+I'm an Android developer focused on building modern, maintainable, and user-friendly applications with Kotlin.
 
-I'm an Android developer who’s been coding since 2022, and I absolutely love building apps.
+I mainly work with Kotlin, Jetpack Compose, and Kotlin Multiplatform. I follow modern development practices such as MVVM, Clean Architecture, SOLID, and Clean Code to build scalable and maintainable applications.
 
-I mainly work with Kotlin and Jetpack Compose.  I love modern MVVM architectures to make apps clean and maintainable.
+I have experience with UI/UX development, REST APIs, state management with Coroutines and Flow, local data storage, dependency injection, and multiplatform development.
 
- have experience with UI/UX design, connecting apps to APIs, managing state with Flow and Coroutines, and writing scalable code.
+I've also published Android and multiplatform applications on Cafe Bazaar, taking projects from development to release and distribution.
 
- also familiar with publishing apps and getting them into software markets — seeing people use what I’ve built is always exciting.
-
- passionate about learning new tools and technologies, improving my skills, and making apps that people actually enjoy using.
+I'm passionate about learning new technologies, improving my development skills, and building applications that provide a great user experience.
 
 ---
 
 ## 🛠️ Technical Skills
 
-🔹 **Language:** Kotlin (Advanced)
+🔹 **Language:** Kotlin
 
 🔹 **Android Development:** Android SDK • Jetpack Compose • Material 3 • Navigation Compose • Android Studio
+
+🔹 **Multiplatform:** Kotlin Multiplatform (KMP) • Compose Multiplatform
 
 🔹 **Architecture & Best Practices:** MVVM • Clean Architecture • SOLID • Design Patterns • Clean Code
 
@@ -26,75 +26,32 @@ I mainly work with Kotlin and Jetpack Compose.  I love modern MVVM architectures
 
 🔹 **Networking & Backend:** REST APIs • Retrofit • Ktor • Kotlin Serialization • JSON • Supabase • Error Handling
 
-🔹 **Database & Storage:** Room • DataStore • SharedPreferences
+🔹 **Database & Storage:** Room • SQLDelight • DataStore • SharedPreferences
 
-🔹 **Dependency Injection:** Hilt • Dagger
+🔹 **Dependency Injection:** Koin • Hilt • Dagger
 
 🔹 **UI/UX:** Material Design • RTL • Light/Dark Theme • Persian UI Design
 
-🔹 **Testing & Debugging:** Unit Testing • TDD • Debugging • Performance Optimization
+🔹 **Testing & Debugging:** Unit Testing • Debugging • Performance Optimization
 
 🔹 **Version Control & Workflow:** Git • GitHub • Git Flow • Release Management
 
-#
+---
 
 <div align="center">
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="60" alt="androidstudio logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="60" alt="kotlin logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetpackcompose/jetpackcompose-original.svg" height="60" alt="jetpackcompose logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-original.svg" height="60" alt="gradle logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="60" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="60" alt="sqlite logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="60" alt="figma logo"  />
-  
-</div>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="60" alt="Android Studio" />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="60" alt="Kotlin" />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetpackcompose/jetpackcompose-original.svg" height="60" alt="Jetpack Compose" />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-original.svg" height="60" alt="Gradle" />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="60" alt="SQLite" />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="60" alt="Figma" />
 
- ---
-
-## 🚀 Skill Dashboard
-
-<div align="center" >
- 
-<table>
-<tr>
-
-<td valign="top" >
-
-### Skill Progress
-
-Language   
-<img src="https://progress-bar.xyz/90/?title=Kotlin&width=350" width="100%" >
-
-Android Studio  
-<img src="https://progress-bar.xyz/85/?title=Jetpack&width=350" width="100%" >
-
-Architecture  
-<img src="https://progress-bar.xyz/85/?title=MVVM-Design&width=350" width="100%" >
-
-Concurrency  
-<img src="https://progress-bar.xyz/85/?title=Coroutines&width=350" width="100%" >
-
-Networking  
-<img src="https://progress-bar.xyz/80/?title=Retrofit&width=350" width="100%" >
-
-Dependency Injection  
-<img src="https://progress-bar.xyz/75/?title=Dagger-Hilt&width=350" width="100%" >
-
-DB & Storage  
-<img src="https://progress-bar.xyz/75/?title=DataBase&width=350" width="100%" >
-
-
-
-
-</tr>
-</table>
 </div>
 
 
@@ -108,13 +65,21 @@ DB & Storage
 
 - [**Download from Cafe Bazaar**](https://cafebazaar.ir/app/io.github.sadeqit.weatherino)
 - [**GitHub Repository**](https://github.com/sadeqit/weatherino)
-- A cross-platform weather application built with Kotlin Multiplatform and Compose Multiplatform, featuring real-time weather data, forecasts, air quality information, location-based weather, and local caching.
+- A cross-platform weather application built with Kotlin Multiplatform and Compose Multiplatform, featuring real-time weather data, forecasts, air quality information, location-based weather, local caching, and platform-specific functionality.
 
 #### 🌙 Sadegh Dream Interpretation
 
 - [**Download from Cafe Bazaar**](https://cafebazaar.ir/app/io.github.sadeghit.dream)
 - [**GitHub Repository**](https://github.com/sadeqit/Sadegh-Dream)
 - An Android application for searching and exploring dream interpretations, published on Cafe Bazaar.
+  
+ ### 🌐 Web Projects
+
+#### Sadeq IT — Personal Portfolio
+
+- [**Live Website**](https://sadeqit.github.io)
+- [**GitHub Repository**](https://github.com/sadeqit/sadeqit.github.io)
+- A personal portfolio website built with Kotlin, Kotlin/Wasm, and Compose Multiplatform, showcasing my projects, technical skills, articles, and professional experience.
 
 ### 🛒 Practice Projects
 
@@ -122,8 +87,6 @@ DB & Storage
 
 - [**GitHub Repository**](https://github.com/sadeqit/Online-Shop)
 - A practice e-commerce application developed to apply professional Android development principles, architecture patterns, and modern development practices in a realistic project structure.
-
----
 
 ### 🧪 Open Source Projects
 
@@ -136,18 +99,15 @@ DB & Storage
 
 ## 📞 Contact Me
 
- [![telegram](https://img.shields.io/badge/Telegram-%20?style=for-the-badge&logo=telegram&logoColor=white&color=2CA5E0)](https://t.me/DANAYAN_KALAM)
- [![instagram](https://img.shields.io/badge/Instagram-%20?style=for-the-badge&logo=Instagram&logoColor=white&color=E4405F)](https://www.instagram.com/sadegh.it)
- [![gmail](https://img.shields.io/badge/Gmail-%20?style=for-the-badge&logo=Gmail&logoColor=white&color=%23e94134)](mailto:danayankalam@gmail.com?subject=Contact%20from%20GitHub)
- [![linkdin](https://img.shields.io/badge/linkedin-%20?style=for-the-badge&logo=linkedin&logoColor=white&color=0077B5)](https://www.linkedin.com/in/sadegh-it-2578a0218)
- [![discord](https://img.shields.io/badge/Discord-%20?style=for-the-badge&logo=Discord&logoColor=white&color=7289DA)](discord.com)
-
-###
+[![Telegram](https://img.shields.io/badge/Telegram-%20?style=for-the-badge&logo=telegram&logoColor=white&color=2CA5E0)](https://t.me/DANAYAN_KALAM)
+[![Instagram](https://img.shields.io/badge/Instagram-%20?style=for-the-badge&logo=Instagram&logoColor=white&color=E4405F)](https://www.instagram.com/sadegh.it)
+[![Gmail](https://img.shields.io/badge/Gmail-%20?style=for-the-badge&logo=Gmail&logoColor=white&color=%23e94134)](mailto:danayankalam@gmail.com?subject=Contact%20from%20GitHub)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%20?style=for-the-badge&logo=linkedin&logoColor=white&color=0077B5)](https://www.linkedin.com/in/sadegh-it-2578a0218)
 
 ---
+
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=sadegh-it&style=for-the-badge" />
+
+<img src="https://komarev.com/ghpvc/?username=sadeqit&style=for-the-badge" />
+
 </div>
-
-
-
