@@ -21,27 +21,25 @@ Continuously learning and improving to build high-quality applications with a st
 
 ## 🛠️ Technical Skills
 
-🔹 **Language:** Kotlin
+🔹 **Language & Concurrency:** Kotlin • Coroutines • Flow • StateFlow • SharedFlow • Kotlin Serialization
 
-🔹 **Android Development:** Android SDK • Jetpack Compose • Material 3 • Navigation Compose • Android Studio
+🔹 **Android Development:** Android SDK • Jetpack Compose • Material 3 • Navigation Compose
 
-🔹 **Multiplatform:** Kotlin Multiplatform (KMP) • Compose Multiplatform
+🔹 **Multiplatform:** Kotlin Multiplatform (KMP) • Compose Multiplatform • Kotlin/Wasm
 
 🔹 **Architecture & Best Practices:** MVVM • Clean Architecture • SOLID • Design Patterns • Clean Code
 
-🔹 **Concurrency & State Management:** Coroutines • Flow • StateFlow • SharedFlow
+🔹 **Networking & Backend:** REST APIs • Retrofit • Ktor • Supabase • Error Handling
 
-🔹 **Networking & Backend:** REST APIs • Retrofit • Ktor • Kotlin Serialization • JSON • Supabase • Error Handling
+🔹 **Database & Storage:** Room • SQLDelight • DataStore
 
-🔹 **Database & Storage:** Room • SQLDelight • DataStore • SharedPreferences
+🔹 **Dependency Injection:** Dagger Hilt • Koin
 
-🔹 **Dependency Injection:** Koin • Hilt • Dagger
-
-🔹 **UI/UX:** Material Design • RTL • Light/Dark Theme • Persian UI Design
+🔹 **UI/UX:** Material Design • Design System • Responsive Design • Adaptive Layout • Light/Dark Theme • Animation & Motion
 
 🔹 **Testing & Debugging:** Unit Testing • Debugging • Performance Optimization
 
-🔹 **Version Control & Workflow:** Git • GitHub • Git Flow • Release Management
+🔹 **Version Control & Workflow:** Git • GitHub • Git Flow • Release Management • CI/CD • GitHub Actions
 
 ---
 
