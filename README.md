@@ -64,15 +64,15 @@ Continuously learning and improving to build high-quality applications with a st
 
 ## 🚀 Featured Projects
 
-### 📱 Published Android Applications
+## 📱 Published Android Applications
 
-#### 🌦️ Weatherino — Smart Weather Application
+### 🌦️ Weatherino — Smart Weather Application
 
 - [**Download from Cafe Bazaar**](https://cafebazaar.ir/app/io.github.sadeqit.weatherino)
 - [**GitHub Repository**](https://github.com/sadeqit/weatherino)
 - A cross-platform weather application built with Kotlin Multiplatform and Compose Multiplatform, featuring real-time weather data, forecasts, air quality information, location-based weather, local caching, and platform-specific functionality.
 
-#### 🌙 Sadegh Dream Interpretation
+### 🌙 Sadegh Dream Interpretation
 
 - [**Download from Cafe Bazaar**](https://cafebazaar.ir/app/io.github.sadeghit.dream)
 - [**GitHub Repository**](https://github.com/sadeqit/Sadegh-Dream)
